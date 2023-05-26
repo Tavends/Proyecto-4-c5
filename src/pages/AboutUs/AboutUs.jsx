@@ -1,5 +1,5 @@
 export function AboutUs() {
   return (
-    <h1>Sobre nosotros</h1>
+    <h1>Restaurante Parrilladas a domicilio</h1>
   )
 }
