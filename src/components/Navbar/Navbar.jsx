@@ -6,7 +6,7 @@ export default function Navbar() {
     <NavbarBS bg="dark" variant='dark' expand="lg">
       <Container>
         <NavbarBS.Brand href="/about-us">
-          <img src='https://react-bootstrap.github.io/logo.svg' width="30" height="30" className="d-inline-block align-top"
+          <img src='https://www.thekitcheneer.com/wp-content/uploads/2020/10/THB-Japanese-Short-Rib-Ramen9.jpg' width="100" height="100" className="d-inline-block align-top"
             alt="React Bootstrap logo"></img>
           Restaurant
         </NavbarBS.Brand>
