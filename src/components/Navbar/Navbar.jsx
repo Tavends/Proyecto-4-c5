@@ -8,7 +8,6 @@ export default function Navbar() {
         <NavbarBS.Brand href="/about-us">
           <img src='https://www.thekitcheneer.com/wp-content/uploads/2020/10/THB-Japanese-Short-Rib-Ramen9.jpg' width="100" height="100" className="d-inline-block align-top"
             alt="React Bootstrap logo"></img>
-          Restaurant
         </NavbarBS.Brand>
         <NavbarBS.Toggle aria-controls="basic-navbar-nav"></NavbarBS.Toggle>
         <NavbarBS.Collapse id='basic-navbar-nav'>
