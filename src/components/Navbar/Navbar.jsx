@@ -6,8 +6,9 @@ export default function Navbar() {
     <NavbarBS bg="dark" variant='dark' expand="lg">
       <Container>
         <NavbarBS.Brand href="/about-us">
-          <img src='https://www.thekitcheneer.com/wp-content/uploads/2020/10/THB-Japanese-Short-Rib-Ramen9.jpg' width="100" height="100" className="d-inline-block align-top"
+          <img src='https://images.vexels.com/media/users/3/235848/isolated/preview/4b62529b242dcef2dbc6719899ecdd6e-gorro-de-cocinero-de-cocina.png' width="100" height="100" className="d-inline-block align-top"
             alt="React Bootstrap logo"></img>
+            <h1 id:titulo> RAWR Wings and Ribs</h1>
         </NavbarBS.Brand>
         <NavbarBS.Toggle aria-controls="basic-navbar-nav"></NavbarBS.Toggle>
         <NavbarBS.Collapse id='basic-navbar-nav'>
